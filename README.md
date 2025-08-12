@@ -1,6 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on🚀 As a passionate Informational technology and management graduate with a knack for Python and full-stack web development, I thrive on crafting efficient and user-friendly web applications. Whether it's backend logic, frontend finesse, or seamless integration, I'm your go-to developer for transformative digital solutions.<br><br>I hold a Bachelor of Science in Informational technology and management from [Bhadrak auto college, bhadrak], where I gained in-depth knowledge through coursework in Data Structures, Algorithms, and Software Engineering. My technical toolbox includes Python, html,css,JavaScript, Django,  Flask, and more, which I've honed through hands-on projects .<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+#About me 
 
+🚀🚀 Passionate IT & Management Graduate | 💻 Python Full Stack Developer | 🤖 AI & ML Enthusiast
+
+I’m a driven and versatile developer with a 📜 Bachelor of Science in Information Technology and Management from 🏫 Bhadrak Auto College, Bhadrak. With a strong foundation in 📚 Data Structures, ⚙️ Algorithms, and 🛠 Software Engineering, I specialize in crafting ⚡ efficient, 📈 scalable, and 🎯 user-friendly digital solutions.
+
+My technical expertise spans across 🐍 Python, 🎨 HTML, 🎯 CSS, ⚡ JavaScript, 🌐 Django, 🐦 Flask, ⚛️ React, and 🔗 REST APIs, enabling me to build complete end-to-end web applications — from 🖥 backend logic to 🎨 frontend finesse and 🔄 seamless integration.
+
+Beyond web development, I’m skilled in 🤖 Machine Learning, 🧠 Deep Learning, 📷 OpenCV, and 🗣️ Natural Language Processing (NLP), allowing me to create 🖼 image recognition systems, 🎯 object detection models, and 📊 text analysis tools.
+
+With 💼 hands-on project experience and a ❤️ passion for problem-solving, I thrive at the intersection of software engineering and AI — delivering 🚀 transformative digital solutions that blend 💡 innovation with ⚙️ performance.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranab_kumar_dutta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/pranab-kumar-dutta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mrpranabgaming) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:duttapranab798@gmail.com) 
